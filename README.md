@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Adan Paracha 👋
 
-<!--
-**adanparacha/adanparacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at DHA Suffa University, exploring cybersecurity while building a foundation in Linux, networking, and web development.
 
-Here are some ideas to get you started:
+## 🔐 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity fundamentals
+- Linux and computer networking
+- Python
+- Web development
+- Exploring cloud technologies
+
+## 💻 Technologies
+
+- C / C++ / Java
+- HTML / CSS / JavaScript
+- PHP / MySQL
+- Git / GitHub
+- Linux / Kali Linux
+
+## 🚀 Projects
+
+### The Icon — Online Fashion Store
+A full-stack online fashion store developed as a Database Systems academic project using PHP, MySQL, HTML, CSS, and JavaScript.
+
+Features include user authentication, product browsing, shopping cart, and order processing.
+
+## 📚 Learning
+
+Currently strengthening my cybersecurity, Linux, and networking skills while learning Python and exploring cloud technologies.
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/adan-paracha-99a27a301/)
